@@ -8,7 +8,7 @@ export default new Vuex.Store({
     logged: false,
     status: null,
     bottomNav: 0,
-    baseURL: 'https://cors-anywhere.herokuapp.com/http://192.168.137.130:8081/alfresco/api/-default-/public/'
+    baseURL: 'http://192.168.137.130:8081/alfresco/api/-default-/public/'
   },
   mutations: {
   },
